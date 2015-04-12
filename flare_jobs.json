@@ -1,0 +1,5519 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "Data Analyst",
+      "Percentage":13 ,
+      "children": [
+        {
+          "name": "San Francisco",
+          "children": [
+            {
+              "name": "San Francisco",
+              "count": 343,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 272
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 34
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 204
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 1394
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 34
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 34
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 714
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 34
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 170
+                    },
+                    {
+                      "name": "Java",
+                      "size": 102
+                    },
+                    {
+                      "name": "Python",
+                      "size": 510
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 238
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 612
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 952
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 374
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 238
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 136
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 68
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 34
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 0
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 34
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 374
+                    },
+                    {
+                      "name": "Git",
+                      "size": 34
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 102
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 34
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 0
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "children": [
+            {
+              "name": "New York",
+              "count": 566,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 168
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 56
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 56
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 0
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 2296
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 56
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 112
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 280
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 56
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 112
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 56
+                    },
+                    {
+                      "name": "Java",
+                      "size": 448
+                    },
+                    {
+                      "name": "Python",
+                      "size": 336
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 224
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 616
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 2240
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 392
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 224
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 56
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 56
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 168
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 56
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 168
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 280
+                    },
+                    {
+                      "name": "Git",
+                      "size": 56
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 168
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 168
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 2
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 0
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "London",
+          "children": [
+            {
+              "name": "London",
+              "count": 1421,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 994
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 284
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 568
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 284
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 8236
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 568
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 142
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 1704
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 284
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 852
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 284
+                    },
+                    {
+                      "name": "Java",
+                      "size": 710
+                    },
+                    {
+                      "name": "Python",
+                      "size": 2130
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 1562
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 2698
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 7668
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 1988
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 1562
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 142
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 568
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 426
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 0
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 284
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 1420
+                    },
+                    {
+                      "name": "Git",
+                      "size": 284
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 142
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 568
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 144
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 426
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paris",
+          "children": [
+            {
+              "name": "Paris",
+              "count": 36,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 0
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 0
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 0
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 3
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 0
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 0
+                    },
+                    {
+                      "name": "Java",
+                      "size": 0
+                    },
+                    {
+                      "name": "Python",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 0
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 3
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 6
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 0
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 0
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 0
+                    },
+                    {
+                      "name": "Git",
+                      "size": 0
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 0
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 0
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 0
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Scientist",
+      "Percentage":7 ,
+
+      "children": [
+        {
+          "name": "San Francisco",
+          "children": [
+            {
+              "name": "San Francisco",
+              "count": 813,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 928
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 160
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 288
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 640
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 64
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 192
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 96
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 1248
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 96
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 96
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 96
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 32
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 384
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 32
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 544
+                    },
+                    {
+                      "name": "Java",
+                      "size": 1056
+                    },
+                    {
+                      "name": "Python",
+                      "size": 1568
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 448
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 1664
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 320
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 800
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 448
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 64
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 576
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 64
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 128
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 160
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 224
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 32
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 96
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 384
+                    },
+                    {
+                      "name": "Git",
+                      "size": 64
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 96
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 96
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 32
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "children": [
+            {
+              "name": "New York",
+              "count": 354,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 1155
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 315
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 210
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 630
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 35
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 35
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 35
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 70
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 1505
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 525
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 210
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 210
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 35
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 105
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 245
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 105
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 455
+                    },
+                    {
+                      "name": "Java",
+                      "size": 910
+                    },
+                    {
+                      "name": "Python",
+                      "size": 1575
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 70
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 1505
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 175
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 630
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 70
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 105
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 735
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 35
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 140
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 210
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 385
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 105
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 245
+                    },
+                    {
+                      "name": "Git",
+                      "size": 105
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 175
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 0
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 1
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 35
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "London",
+          "children": [
+            {
+              "name": "London",
+              "count": 417,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 2009
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 287
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 492
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 902
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 41
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 164
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 205
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 2583
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 738
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 328
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 287
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 287
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 287
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 246
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 697
+                    },
+                    {
+                      "name": "Java",
+                      "size": 1517
+                    },
+                    {
+                      "name": "Python",
+                      "size": 2460
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 738
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 2788
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 574
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 1558
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 738
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 123
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 820
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 369
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 533
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 82
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 41
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 164
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 328
+                    },
+                    {
+                      "name": "Git",
+                      "size": 82
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 123
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 164
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 42
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 41
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paris",
+          "children": [
+            {
+              "name": "Paris",
+              "count": 102,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 170
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 90
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 80
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 30
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 10
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 10
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 250
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 100
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 60
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 20
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 30
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 110
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 20
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 90
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 40
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 180
+                    },
+                    {
+                      "name": "Java",
+                      "size": 230
+                    },
+                    {
+                      "name": "Python",
+                      "size": 320
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 50
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 630
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 30
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 190
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 50
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 180
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 30
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 90
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 40
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 0
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 110
+                    },
+                    {
+                      "name": "Git",
+                      "size": 0
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 40
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 20
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 2
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 20
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Full Stack Dev",
+      "Percentage":15 ,
+
+      "children": [
+        {
+          "name": "San Francisco",
+          "children": [
+            {
+              "name": "San Francisco",
+              "children": [
+                {
+                  "name": "Big Data",
+                  "count": 813,
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 648
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 81
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 162
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 162
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 324
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 486
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 567
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 81
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 243
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 81
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 81
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 486
+                    },
+                    {
+                      "name": "Java",
+                      "size": 1701
+                    },
+                    {
+                      "name": "Python",
+                      "size": 1539
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 200
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 162
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 81
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 243
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 162
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 162
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 324
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 486
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 2187
+                    },
+                    {
+                      "name": "Git",
+                      "size": 324
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 405
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 1377
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 178
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 567
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "children": [
+            {
+              "name": "New York",
+              "count": 773,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 616
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 308
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 77
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 77
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 77
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 693
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 308
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 770
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 308
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 462
+                    },
+                    {
+                      "name": "Java",
+                      "size": 1463
+                    },
+                    {
+                      "name": "Python",
+                      "size": 1771
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 308
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 77
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 0
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 77
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 154
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 308
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 616
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 308
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 3003
+                    },
+                    {
+                      "name": "Git",
+                      "size": 1078
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 1155
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 1617
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 476
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 693
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "London",
+          "children": [
+            {
+              "name": "London",
+              "count": 909,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 270
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 180
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 90
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 3060
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 990
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 1620
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 180
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 180
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 90
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 810
+                    },
+                    {
+                      "name": "Java",
+                      "size": 2880
+                    },
+                    {
+                      "name": "Python",
+                      "size": 1890
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 200
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 90
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 90
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 90
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 0
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 810
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 360
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 990
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 1530
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 5940
+                    },
+                    {
+                      "name": "Git",
+                      "size": 1440
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 2790
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 4950
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 1308
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 1440
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 90
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paris",
+          "children": [
+            {
+              "name": "Paris",
+              "count": 140,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 42
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 14
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 28
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 0
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 336
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 112
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 112
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 28
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 196
+                    },
+                    {
+                      "name": "Java",
+                      "size": 350
+                    },
+                    {
+                      "name": "Python",
+                      "size": 154
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 300
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 0
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 56
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 0
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 98
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 98
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 14
+                    },
+                    {
+                      "name": "Django",
+                      "size": 70
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 14
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 742
+                    },
+                    {
+                      "name": "Git",
+                      "size": 294
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 504
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 574
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 262
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 364
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 28
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business Intelligence",
+      "Percentage":44 ,
+
+      "children": [
+        {
+          "name": "San Francisco",
+          "children": [
+            {
+              "name": "San Francisco",
+              "count": 1112,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 999
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 111
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 333
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 222
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 2886
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 111
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 333
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 333
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 222
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 1221
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 333
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 222
+                    },
+                    {
+                      "name": "Java",
+                      "size": 999
+                    },
+                    {
+                      "name": "Python",
+                      "size": 888
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 111
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 444
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 1998
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 111
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 111
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 111
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 111
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 111
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 111
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 999
+                    },
+                    {
+                      "name": "Git",
+                      "size": 222
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 0
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 333
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 0
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "children": [
+            {
+              "name": "New York",
+              "count": 1915,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 1146
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 191
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 0
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 382
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 4584
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 382
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 573
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 382
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 191
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 2101
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 764
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 191
+                    },
+                    {
+                      "name": "Java",
+                      "size": 764
+                    },
+                    {
+                      "name": "Python",
+                      "size": 573
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 573
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 1146
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 5157
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 955
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 573
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 191
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 764
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 573
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 764
+                    },
+                    {
+                      "name": "Git",
+                      "size": 0
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 382
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 573
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 1
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 0
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "London",
+          "children": [
+            {
+              "name": "London",
+              "count": 3579,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 1428
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 714
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 357
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 1071
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 15351
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 714
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 714
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 357
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 4998
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 714
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 4998
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 357
+                    },
+                    {
+                      "name": "Java",
+                      "size": 2499
+                    },
+                    {
+                      "name": "Python",
+                      "size": 2142
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 357
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 3927
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 9996
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 1785
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 357
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 714
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 357
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 357
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 3213
+                    },
+                    {
+                      "name": "Git",
+                      "size": 357
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 714
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 2142
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 719
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 1071
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paris",
+          "children": [
+            {
+              "name": "Paris",
+              "count": 852,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 595
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 340
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 425
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 170
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 170
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 3485
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 170
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 170
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 255
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 1020
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 85
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 425
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 595
+                    },
+                    {
+                      "name": "Java",
+                      "size": 1700
+                    },
+                    {
+                      "name": "Python",
+                      "size": 850
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 170
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 8925
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 935
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 2635
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 170
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 170
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 85
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 170
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 0
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 85
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 0
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 595
+                    },
+                    {
+                      "name": "Git",
+                      "size": 85
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 425
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 510
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 1
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 85
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Web Developer",
+      "Percentage":21 ,
+
+      "children": [
+        {
+          "name": "San Francisco",
+          "children": [
+            {
+              "name": "San Francisco",
+              "count": 349,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 0
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 34
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 0
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 272
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 34
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 68
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 272
+                    },
+                    {
+                      "name": "Java",
+                      "size": 612
+                    },
+                    {
+                      "name": "Python",
+                      "size": 306
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 136
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 34
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 0
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 34
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 34
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 68
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 68
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 204
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 1904
+                    },
+                    {
+                      "name": "Git",
+                      "size": 340
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 714
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 1870
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 652
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 816
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "children": [
+            {
+              "name": "New York",
+              "count": 787,
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 78
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 0
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 0
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 936
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 78
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 234
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 78
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 78
+                    },
+                    {
+                      "name": "Java",
+                      "size": 1014
+                    },
+                    {
+                      "name": "Python",
+                      "size": 546
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 0
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 78
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 0
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 78
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 156
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 78
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 234
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 468
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 2808
+                    },
+                    {
+                      "name": "Git",
+                      "size": 546
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 1170
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 2808
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 809
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 1638
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "London",
+          "children": [
+            {
+              "name": "London",
+              "count": 2285,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 0
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 0
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 0
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 6612
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 684
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 912
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 228
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 0
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 456
+                    },
+                    {
+                      "name": "Java",
+                      "size": 4788
+                    },
+                    {
+                      "name": "Python",
+                      "size": 1140
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 912
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 456
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 0
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 0
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 684
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 912
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 684
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 1596
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 14136
+                    },
+                    {
+                      "name": "Git",
+                      "size": 3876
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 5928
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 14136
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 5064
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 7068
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 228
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Paris",
+          "children": [
+            {
+              "name": "Paris",
+              "count": 81,              
+              "children": [
+                {
+                  "name": "Big Data",
+                  "children": [
+                    {
+                      "name": "Hadoop",
+                      "size": 24
+                    },
+                    {
+                      "name": "MapReduce",
+                      "size": 0
+                    },
+                    {
+                      "name": "Spark",
+                      "size": 0
+                    },
+                    {
+                      "name": "Hive",
+                      "size": 0
+                    },
+                    {
+                      "name": "Oozie",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flume",
+                      "size": 0
+                    },
+                    {
+                      "name": "Shark",
+                      "size": 0
+                    },
+                    {
+                      "name": "ZooKeeper",
+                      "size": 0
+                    },
+                    {
+                      "name": "Mahout",
+                      "size": 0
+                    },
+                    {
+                      "name": "H2O",
+                      "size": 0
+                    },
+                    {
+                      "name": "Weka",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Database",
+                  "children": [
+                    {
+                      "name": "SQL",
+                      "size": 192
+                    },
+                    {
+                      "name": "NoSQL",
+                      "size": 8
+                    },
+                    {
+                      "name": "MongoDB",
+                      "size": 8
+                    },
+                    {
+                      "name": "HBase",
+                      "size": 0
+                    },
+                    {
+                      "name": "Neo4j",
+                      "size": 0
+                    },
+                    {
+                      "name": "OrientDB",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cassandra",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "DataViz",
+                  "children": [
+                    {
+                      "name": "Tableau",
+                      "size": 0
+                    },
+                    {
+                      "name": "D3.js",
+                      "size": 0
+                    },
+                    {
+                      "name": "Bokeh",
+                      "size": 0
+                    },
+                    {
+                      "name": "Flare",
+                      "size": 0
+                    },
+                    {
+                      "name": "Gephi",
+                      "size": 0
+                    },
+                    {
+                      "name": "ggplot2",
+                      "size": 0
+                    },
+                    {
+                      "name": "QlikView",
+                      "size": 88
+                    },
+                    {
+                      "name": "Plotly",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Programming Language",
+                  "children": [
+                    {
+                      "name": "C++",
+                      "size": 40
+                    },
+                    {
+                      "name": "Java",
+                      "size": 192
+                    },
+                    {
+                      "name": "Python",
+                      "size": 8
+                    },
+                    {
+                      "name": "Scala",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Statistical Language",
+                  "children": [
+                    {
+                      "name": "R",
+                      "size": 608
+                    },
+                    {
+                      "name": "Excel",
+                      "size": 16
+                    },
+                    {
+                      "name": "SAS",
+                      "size": 152
+                    },
+                    {
+                      "name": "SPSS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Stata",
+                      "size": 0
+                    },
+                    {
+                      "name": "Matlab",
+                      "size": 0
+                    },
+                    {
+                      "name": "Julia",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Machine Learning",
+                  "children": [
+                    {
+                      "name": "NLP",
+                      "size": 0
+                    },
+                    {
+                      "name": "Scikit-learn",
+                      "size": 0
+                    },
+                    {
+                      "name": "Theano",
+                      "size": 0
+                    },
+                    {
+                      "name": "Cuda",
+                      "size": 0
+                    },
+                    {
+                      "name": "GPU Computing",
+                      "size": 0
+                    },
+                    {
+                      "name": "Clustering",
+                      "size": 0
+                    },
+                    {
+                      "name": "Classification",
+                      "size": 24
+                    },
+                    {
+                      "name": "Deep-Learning",
+                      "size": 0
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev",
+                  "children": [
+                    {
+                      "name": "NodeJS",
+                      "size": 0
+                    },
+                    {
+                      "name": "Grunt",
+                      "size": 0
+                    },
+                    {
+                      "name": "Ionic",
+                      "size": 0
+                    },
+                    {
+                      "name": "Django",
+                      "size": 0
+                    },
+                    {
+                      "name": "LESS",
+                      "size": 64
+                    },
+                    {
+                      "name": "JavaScript",
+                      "size": 288
+                    },
+                    {
+                      "name": "Git",
+                      "size": 0
+                    },
+                    {
+                      "name": "PHP",
+                      "size": 272
+                    },
+                    {
+                      "name": "HTML",
+                      "size": 368
+                    },
+                    {
+                      "name": "CSS",
+                      "size": 98
+                    },
+                    {
+                      "name": "Jquery",
+                      "size": 152
+                    },
+                    {
+                      "name": "MeteorJS",
+                      "size": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
