@@ -2216,10 +2216,10 @@
           "children": [
             {
               "name": "San Francisco",
+              "count": 813,
               "children": [
                 {
                   "name": "Big Data",
-                  "count": 813,
                   "children": [
                     {
                       "name": "Hadoop",

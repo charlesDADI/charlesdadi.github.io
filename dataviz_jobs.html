@@ -18,7 +18,7 @@
         }
 
         .label {
-          font: 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font: 20px "Arial", Arial, Arial, sans-serif;
           font-weight: bold;
           text-anchor: middle;
           text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
@@ -34,11 +34,11 @@
           pointer-events: none;
         }
         .tooltip {
-          background: #eee;
+          background: rgba(255,255,255,1);
           box-shadow: 0 0 5px #999999;
           color: #333;
           display: none;
-          font-size: 12px;
+          font-size: 15px;
           left: 130px;
           padding: 10px;
           position: absolute;
@@ -69,7 +69,7 @@
     </div>
     <div class="row">
       <script>
-
+var colors = ['#fc6472','#f4b2a6','#eccdb3','#bcefd0','#a1e8e4','#23c8b2',   '#c3ecee']
       var margin = 20,
           diameter = 960;
 
@@ -149,7 +149,7 @@
         circle.on('mouseover', function(d) {
 
           tooltip.select('.label').html(d.name);
-          if (d.depth === 3) {tooltip.select('.count').html(String(d.count)+" Offers"); } 
+          if (d.depth === 3) {tooltip.select('.count').html(String(d.count)+" Offres"); } 
           if(d.depth < 2) {tooltip.select('.count').html(""); };  
           if (d.depth === 1) {tooltip.select('.count').html(String(d.Percentage)+" %"); } 
           if(d.depth ===4) {tooltip.select('.count').html(""); }   
