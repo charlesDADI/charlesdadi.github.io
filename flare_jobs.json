@@ -1113,7 +1113,7 @@
           "children": [
             {
               "name": "San Francisco",
-              "count": 417,
+              "count": 813,
               "children": [
                 {
                   "name": "Big Data",
@@ -1661,7 +1661,7 @@
           "children": [
             {
               "name": "London",
-              "count": 817,
+              "count": 417,
               "children": [
                 {
                   "name": "Big Data",
@@ -3319,7 +3319,7 @@
           "children": [
             {
               "name": "San Francisco",
-              "count": 852,
+              "count": 1112,
               "children": [
                 {
                   "name": "Big Data",
@@ -4141,7 +4141,7 @@
           "children": [
             {
               "name": "Paris",
-              "count": 1112,              
+              "count": 852,              
               "children": [
                 {
                   "name": "Big Data",
