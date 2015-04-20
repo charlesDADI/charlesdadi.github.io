@@ -1119,7 +1119,7 @@
                   "children": [
                     {
                       "name": "Hadoop",
-                      "size": 1928
+                      "size": 928
                     },
                     {
                       "name": "MapReduce",
