@@ -1106,7 +1106,6 @@
     {
       "name": "Data Scientist",
       "Percentage":7 ,
-
       "children": [
         {
           "name": "San Francisco",
@@ -1120,7 +1119,7 @@
                   "children": [
                     {
                       "name": "Hadoop",
-                      "size": 928
+                      "size": 1928
                     },
                     {
                       "name": "MapReduce",
